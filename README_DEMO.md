@@ -47,7 +47,7 @@ To install vCluster, you can use Terraform. Follow these steps:
 
 This Terraform play will create two vCluster:
 
-- **Giffindor**
+- **Gryffindor**
 - **Slytherin**
 
 ## Connect to a vCluster
